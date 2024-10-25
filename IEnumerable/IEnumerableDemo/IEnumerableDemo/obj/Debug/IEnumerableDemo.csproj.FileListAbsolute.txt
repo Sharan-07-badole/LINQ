@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\LINQ\IEnumerable\IEnumerableDemo\IEnumerableDemo\bin\Debug\IEnumerableDemo.exe.config
+C:\Users\hp\source\repos\LINQ\IEnumerable\IEnumerableDemo\IEnumerableDemo\bin\Debug\IEnumerableDemo.exe
+C:\Users\hp\source\repos\LINQ\IEnumerable\IEnumerableDemo\IEnumerableDemo\bin\Debug\IEnumerableDemo.pdb
+C:\Users\hp\source\repos\LINQ\IEnumerable\IEnumerableDemo\IEnumerableDemo\obj\Debug\IEnumerableDemo.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\LINQ\IEnumerable\IEnumerableDemo\IEnumerableDemo\obj\Debug\IEnumerableDemo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LINQ\IEnumerable\IEnumerableDemo\IEnumerableDemo\obj\Debug\IEnumerableDemo.exe
+C:\Users\hp\source\repos\LINQ\IEnumerable\IEnumerableDemo\IEnumerableDemo\obj\Debug\IEnumerableDemo.pdb

@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\LINQ\Linq_to_Sql_CRUD_Winforms\Linq_to_Sql_CRUD_Winforms\bin\Debug\Linq_to_Sql_CRUD_Winforms.exe.config
+C:\Users\hp\source\repos\LINQ\Linq_to_Sql_CRUD_Winforms\Linq_to_Sql_CRUD_Winforms\bin\Debug\Linq_to_Sql_CRUD_Winforms.exe
+C:\Users\hp\source\repos\LINQ\Linq_to_Sql_CRUD_Winforms\Linq_to_Sql_CRUD_Winforms\bin\Debug\Linq_to_Sql_CRUD_Winforms.pdb
+C:\Users\hp\source\repos\LINQ\Linq_to_Sql_CRUD_Winforms\Linq_to_Sql_CRUD_Winforms\obj\Debug\Linq_to_Sql_CRUD_Winforms.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\LINQ\Linq_to_Sql_CRUD_Winforms\Linq_to_Sql_CRUD_Winforms\obj\Debug\Linq_to_Sql_CRUD_Winforms.Form1.resources
+C:\Users\hp\source\repos\LINQ\Linq_to_Sql_CRUD_Winforms\Linq_to_Sql_CRUD_Winforms\obj\Debug\Linq_to_Sql_CRUD_Winforms.Properties.Resources.resources
+C:\Users\hp\source\repos\LINQ\Linq_to_Sql_CRUD_Winforms\Linq_to_Sql_CRUD_Winforms\obj\Debug\Linq_to_Sql_CRUD_Winforms.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\LINQ\Linq_to_Sql_CRUD_Winforms\Linq_to_Sql_CRUD_Winforms\obj\Debug\Linq_to_Sql_CRUD_Winforms.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LINQ\Linq_to_Sql_CRUD_Winforms\Linq_to_Sql_CRUD_Winforms\obj\Debug\Linq_to_Sql_CRUD_Winforms.exe
+C:\Users\hp\source\repos\LINQ\Linq_to_Sql_CRUD_Winforms\Linq_to_Sql_CRUD_Winforms\obj\Debug\Linq_to_Sql_CRUD_Winforms.pdb
+C:\Users\hp\source\repos\LINQ\Linq_to_Sql_CRUD_Winforms\Linq_to_Sql_CRUD_Winforms\obj\Debug\Linq_to_Sql_CRUD_Winforms.Form2.resources
+C:\Users\hp\source\repos\LINQ\Linq_to_Sql_CRUD_Winforms\Linq_to_Sql_CRUD_Winforms\obj\Debug\Linq_to_Sql_CRUD_Winforms.Form3.resources

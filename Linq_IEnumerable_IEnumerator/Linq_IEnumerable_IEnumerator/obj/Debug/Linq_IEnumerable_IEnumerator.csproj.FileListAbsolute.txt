@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\LINQ\Linq_IEnumerable_IEnumerator\Linq_IEnumerable_IEnumerator\bin\Debug\Linq_IEnumerable_IEnumerator.exe.config
+C:\Users\hp\source\repos\LINQ\Linq_IEnumerable_IEnumerator\Linq_IEnumerable_IEnumerator\bin\Debug\Linq_IEnumerable_IEnumerator.exe
+C:\Users\hp\source\repos\LINQ\Linq_IEnumerable_IEnumerator\Linq_IEnumerable_IEnumerator\bin\Debug\Linq_IEnumerable_IEnumerator.pdb
+C:\Users\hp\source\repos\LINQ\Linq_IEnumerable_IEnumerator\Linq_IEnumerable_IEnumerator\obj\Debug\Linq_IEnumerable_IEnumerator.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\LINQ\Linq_IEnumerable_IEnumerator\Linq_IEnumerable_IEnumerator\obj\Debug\Linq_IEnumerable_IEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LINQ\Linq_IEnumerable_IEnumerator\Linq_IEnumerable_IEnumerator\obj\Debug\Linq_IEnumerable_IEnumerator.exe
+C:\Users\hp\source\repos\LINQ\Linq_IEnumerable_IEnumerator\Linq_IEnumerable_IEnumerator\obj\Debug\Linq_IEnumerable_IEnumerator.pdb

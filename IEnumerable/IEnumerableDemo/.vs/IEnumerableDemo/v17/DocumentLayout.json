@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\LINQ\\IEnumerable\\IEnumerableDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B4AEF3F-B8A6-43BB-8F05-0C942C9BEB15}|IEnumerableDemo\\IEnumerableDemo.csproj|c:\\users\\hp\\source\\repos\\linq\\ienumerable\\ienumerabledemo\\ienumerabledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B4AEF3F-B8A6-43BB-8F05-0C942C9BEB15}|IEnumerableDemo\\IEnumerableDemo.csproj|solutionrelative:ienumerabledemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LINQ\\IEnumerable\\IEnumerableDemo\\IEnumerableDemo\\Program.cs",
+              "RelativeDocumentMoniker": "IEnumerableDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LINQ\\IEnumerable\\IEnumerableDemo\\IEnumerableDemo\\Program.cs",
+              "RelativeToolTip": "IEnumerableDemo\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:24:08.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
